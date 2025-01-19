@@ -1,7 +1,6 @@
 fastapi
 websockets
 asyncio
-pyaudio
 opencv-python-headless
 Pillow
 python-dotenv
