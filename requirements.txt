@@ -6,5 +6,6 @@ opencv-python-headless
 Pillow
 python-dotenv
 pydantic
+gunicorn
 google-genai
 jinja2
