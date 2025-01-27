@@ -8,3 +8,4 @@ pydantic
 gunicorn
 google-genai
 jinja2
+uvicorn
